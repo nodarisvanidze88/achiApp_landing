@@ -62,6 +62,11 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
+            <li>
+              <a href="https://app.bsi.ge" className="page-scroll">
+                APP
+              </a>
+            </li>
           </ul>
         </div>
       </div>
